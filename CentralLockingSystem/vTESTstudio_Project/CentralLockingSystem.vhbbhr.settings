@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <ProductVersion>7.1.1.0</ProductVersion>
+  <Project>
+    <SerializableDictionaryOfStringObject />
+  </Project>
+  <WindowManagement>
+    <SerializableDictionaryOfStringObject>
+      <item>
+        <key type="System.String">
+          <string>ActiveDocumentIndex</string>
+        </key>
+        <value type="System.Int32">
+          <int>2</int>
+        </value>
+      </item>
+      <item>
+        <key type="System.String">
+          <string>DocumentLayout</string>
+        </key>
+        <value type="Vector.ITE.ViewManagement.DocInfoList">
+          <ArrayOfDocumentInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <DocumentInfo>
+              <PositionInContainer>0</PositionInContainer>
+              <ContainerIndex>0</ContainerIndex>
+              <DocType>CSTestModule</DocType>
+              <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="TestTableEditor\LockingTestLibrary.cs" /&gt;</SerializedBasedFileName>
+              <ContextGUID>13nqkdrr6o07</ContextGUID>
+              <ContextGUIDForGUI>13nqkdrr6o07</ContextGUIDForGUI>
+            </DocumentInfo>
+            <DocumentInfo>
+              <PositionInContainer>1</PositionInContainer>
+              <ContainerIndex>0</ContainerIndex>
+              <DocType>CAPLFile</DocType>
+              <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="TestTableEditor\Utilities.can" /&gt;</SerializedBasedFileName>
+              <ContextGUID>13nqkdrr6o07</ContextGUID>
+              <ContextGUIDForGUI>13nqkdrr6o07</ContextGUIDForGUI>
+            </DocumentInfo>
+            <DocumentInfo>
+              <PositionInContainer>2</PositionInContainer>
+              <ContainerIndex>0</ContainerIndex>
+              <DocType>CSTestModule</DocType>
+              <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="CSharp\BasicDiagnostics.cs" /&gt;</SerializedBasedFileName>
+              <ContextGUID>8a6ft58bjme8</ContextGUID>
+              <ContextGUIDForGUI>8a6ft58bjme8</ContextGUIDForGUI>
+            </DocumentInfo>
+          </ArrayOfDocumentInfo>
+        </value>
+      </item>
+      <item>
+        <key type="System.String">
+          <string>WindowLayout</string>
+        </key>
+        <value type="System.String">
+          <string>&lt;DockSiteLayout xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SerializationFormat="All" Version="2"&gt;
+	&lt;AutoHideHost /&gt;
+	&lt;Content xsi:type="SplitContainer" Orientation="Horizontal" DockedSize="1908,973"&gt;
+		&lt;UIElement xsi:type="SplitContainer" Orientation="Vertical" DockedSize="238,600"&gt;
+			&lt;UIElement xsi:type="ToolWindowContainer" DockedSize="238,407" SelectedWindowUniqueId="80d3d55f-464d-44bb-8ea2-fa78f6b2e89b"&gt;
+				&lt;UIElement xsi:type="ToolWindowRef" UniqueId="80d3d55f-464d-44bb-8ea2-fa78f6b2e89b" /&gt;
+			&lt;/UIElement&gt;
+			&lt;UIElement xsi:type="ToolWindowContainer" DockedSize="238,266" SelectedWindowUniqueId="284e2df0-0932-4854-9bf2-dbb96b34796a"&gt;
+				&lt;UIElement xsi:type="ToolWindowRef" UniqueId="284e2df0-0932-4854-9bf2-dbb96b34796a" /&gt;
+				&lt;UIElement xsi:type="ToolWindowRef" UniqueId="0ce8c2bf-4325-402d-8ebc-52ba6d40ccf2" /&gt;
+			&lt;/UIElement&gt;
+		&lt;/UIElement&gt;
+		&lt;UIElement xsi:type="Workspace"&gt;
+			&lt;Content xsi:type="TabbedMdiHost"&gt;
+				&lt;Content xsi:type="TabbedMdiContainer" DockedSize="1408,973" SelectedWindowUniqueId="39190683-e8d7-487e-96bf-eecc9826d662"&gt;
+					&lt;UIElement xsi:type="DocumentWindowRef" UniqueId="4bf25f1b-09f1-48d6-a936-58f4db310be5" /&gt;
+					&lt;UIElement xsi:type="DocumentWindowRef" UniqueId="c3fd8bb1-96ae-41d1-93d0-679f895ef994" /&gt;
+					&lt;UIElement xsi:type="DocumentWindowRef" UniqueId="39190683-e8d7-487e-96bf-eecc9826d662" /&gt;
+				&lt;/Content&gt;
+			&lt;/Content&gt;
+		&lt;/UIElement&gt;
+		&lt;UIElement xsi:type="ToolWindowContainer" DockedSize="250,200" SelectedWindowUniqueId="c6ddf369-eb82-4a69-9937-df3f2de48fcc"&gt;
+			&lt;UIElement xsi:type="ToolWindowRef" UniqueId="6ac6e7cf-52c3-491e-8377-5b5c951e99f5" /&gt;
+			&lt;UIElement xsi:type="ToolWindowRef" UniqueId="c6ddf369-eb82-4a69-9937-df3f2de48fcc" /&gt;
+		&lt;/UIElement&gt;
+	&lt;/Content&gt;
+	&lt;DocumentWindows&gt;
+		&lt;DocumentWindow UniqueId="4bf25f1b-09f1-48d6-a936-58f4db310be5" SerializationId="CsEditor:D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\TestTableEditor\LockingTestLibrary.cs" ContainerDockedSize="1024,578" IsOpen="true" LastActiveDateTime="2023-05-12T09:46:02.4045598+05:30" State="Document" /&gt;
+		&lt;DocumentWindow UniqueId="c3fd8bb1-96ae-41d1-93d0-679f895ef994" SerializationId="CaplEditor:D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\TestTableEditor\Utilities.can" ContainerDockedSize="1408,973" IsOpen="true" LastActiveDateTime="2023-05-12T09:46:02.8044734+05:30" State="Document" /&gt;
+		&lt;DocumentWindow UniqueId="39190683-e8d7-487e-96bf-eecc9826d662" SerializationId="CsEditor:D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\CSharp\BasicDiagnostics.cs" ContainerDockedSize="1408,973" IsOpen="true" LastActiveDateTime="2023-05-12T09:46:02.952169+05:30" State="Document" /&gt;
+	&lt;/DocumentWindows&gt;
+	&lt;RaftingHosts&gt;
+		&lt;RaftingHost UniqueId="d0bc595c-8920-4f48-a45a-bd3802886642" Location="219,530" Size="211,678" WindowState="Normal"&gt;
+			&lt;AutoHideHost /&gt;
+			&lt;Content xsi:type="ToolWindowContainer" DockedSize="0,0"&gt;
+				&lt;UIElement xsi:type="Track" ContainerDockedSize="211,676" CreationDateTime="0001-01-01T00:00:00" UniqueId="80d3d55f-464d-44bb-8ea2-fa78f6b2e89b" /&gt;
+			&lt;/Content&gt;
+		&lt;/RaftingHost&gt;
+		&lt;RaftingHost UniqueId="4830289f-d188-465e-88d0-b26ca869e692" Location="238,475" Size="211,407" WindowState="Normal"&gt;
+			&lt;AutoHideHost /&gt;
+			&lt;Content xsi:type="ToolWindowContainer" DockedSize="0,0"&gt;
+				&lt;UIElement xsi:type="Track" ContainerDockedSize="211,439" CreationDateTime="0001-01-01T00:00:00" UniqueId="0ce8c2bf-4325-402d-8ebc-52ba6d40ccf2" /&gt;
+			&lt;/Content&gt;
+		&lt;/RaftingHost&gt;
+	&lt;/RaftingHosts&gt;
+	&lt;ToolWindows&gt;
+		&lt;ToolWindow UniqueId="80d3d55f-464d-44bb-8ea2-fa78f6b2e89b" SerializationId="ProjectView" ContainerDockedSize="238,407" IsOpen="true" LastActiveDateTime="2022-09-08T16:51:09.1255619+05:30" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="284e2df0-0932-4854-9bf2-dbb96b34796a" SerializationId="LibraryView" ContainerDockedSize="238,266" IsOpen="true" LastActiveDateTime="2022-09-06T10:48:00.0074927+05:30" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="0ce8c2bf-4325-402d-8ebc-52ba6d40ccf2" SerializationId="HomeDirectoryView" ContainerDockedSize="238,266" IsOpen="true" LastActiveDateTime="2022-09-06T10:48:00.0124921+05:30" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="b0825994-7121-418f-bf5b-233d0dedd923" SerializationId="OutputService" ContainerDockedSize="926,200" IsOpen="false" LastActiveDateTime="2022-09-06T10:48:00.0136275+05:30" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="b703a70f-aa52-477d-96fe-1c8fb52528f1" SerializationId="FindResults1" ContainerDockedSize="926,200" IsOpen="false" LastActiveDateTime="2022-09-06T10:48:00.016249+05:30" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="273e697c-d09c-47e6-9cf8-19391a67d987" SerializationId="CaplFunctionExplorer" ContainerDockedSize="211,676" IsOpen="false" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="6ac6e7cf-52c3-491e-8377-5b5c951e99f5" SerializationId="SymbolExplorer" ContainerDockedSize="250,200" IsOpen="true" LastActiveDateTime="2022-09-06T10:48:00.0178531+05:30" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="c6ddf369-eb82-4a69-9937-df3f2de48fcc" SerializationId="InterfaceFunctionExplorer" ContainerDockedSize="250,200" IsOpen="true" LastActiveDateTime="2022-09-07T17:19:53.5458875+05:30" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="792c075c-8ac2-4c17-94e9-8809753bdf66" SerializationId="TteLanguageExplorer" ContainerDockedSize="211,676" IsOpen="false" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="72257bb0-24fb-4c42-b42a-d7666b985d2e" SerializationId="TraceItemExplorer" ContainerDockedSize="250,676" IsOpen="false" LastActiveDateTime="2022-10-12T12:17:25.7756387+05:30" State="Docked" /&gt;
+		&lt;ToolWindow UniqueId="ec848507-ef50-46f3-a8d4-be1c443ceaaa" SerializationId="SearchAndReplaceDialog" ContainerDockedSize="305,288" IsOpen="false" LastActiveDateTime="2022-11-09T10:20:10.1807546+05:30" State="Docked" /&gt;
+	&lt;/ToolWindows&gt;
+&lt;/DockSiteLayout&gt;</string>
+        </value>
+      </item>
+      <item>
+        <key type="System.String">
+          <string>ViewSettings</string>
+        </key>
+        <value type="System.Collections.Generic.List`1[Vector.ITE.ViewInterfaces.ViewSettings]">
+          <ArrayOfViewSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ViewSettings>
+              <Key>Path_.\TestTableEditor\LockingTestLibrary.cs</Key>
+              <LastTouched>2023-05-12T04:16:05.3806075Z</LastTouched>
+              <Settings>
+                <item>
+                  <key type="System.String">
+                    <string>HorizontalSplitterPos</string>
+                  </key>
+                  <value type="Vector.ITE.Languages.Common.PersistentItems.PersistentSplitterPos">
+                    <PersistentSplitterPos>
+                      <SplitterPos>0</SplitterPos>
+                      <Enabled>false</Enabled>
+                    </PersistentSplitterPos>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>VerticalSplitterPos</string>
+                  </key>
+                  <value type="Vector.ITE.Languages.Common.PersistentItems.PersistentSplitterPos">
+                    <PersistentSplitterPos>
+                      <SplitterPos>0</SplitterPos>
+                      <Enabled>false</Enabled>
+                    </PersistentSplitterPos>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>Outlining</string>
+                  </key>
+                  <value type="Vector.ITE.Utilities.XmlSerialization.SerializableDictionary`2[System.Int32,System.Boolean]">
+                    <SerializableDictionaryOfInt32Boolean>
+                      <item>
+                        <key type="System.Int32">
+                          <int>-1</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>0</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>283</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>289</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>629</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>2702</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>2850</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                    </SerializableDictionaryOfInt32Boolean>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>Offset</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>FirstVisibleDisplayLineIndex</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+              </Settings>
+            </ViewSettings>
+            <ViewSettings>
+              <Key>Path_.\TestTableEditor\Utilities.can</Key>
+              <LastTouched>2023-05-12T04:16:05.4126929Z</LastTouched>
+              <Settings>
+                <item>
+                  <key type="System.String">
+                    <string>HorizontalSplitterPos</string>
+                  </key>
+                  <value type="Vector.ITE.Languages.Common.PersistentItems.PersistentSplitterPos">
+                    <PersistentSplitterPos>
+                      <SplitterPos>0</SplitterPos>
+                      <Enabled>false</Enabled>
+                    </PersistentSplitterPos>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>VerticalSplitterPos</string>
+                  </key>
+                  <value type="Vector.ITE.Languages.Common.PersistentItems.PersistentSplitterPos">
+                    <PersistentSplitterPos>
+                      <SplitterPos>0</SplitterPos>
+                      <Enabled>false</Enabled>
+                    </PersistentSplitterPos>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>Outlining</string>
+                  </key>
+                  <value type="Vector.ITE.Utilities.XmlSerialization.SerializableDictionary`2[System.Int32,System.Boolean]">
+                    <SerializableDictionaryOfInt32Boolean>
+                      <item>
+                        <key type="System.Int32">
+                          <int>-1</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                    </SerializableDictionaryOfInt32Boolean>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>Offset</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>FirstVisibleDisplayLineIndex</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>HorizontalSplitterPosNavigator</string>
+                  </key>
+                  <value type="Vector.ITE.Languages.Common.PersistentItems.PersistentSplitterPos">
+                    <PersistentSplitterPos>
+                      <SplitterPos>227</SplitterPos>
+                      <Enabled>true</Enabled>
+                    </PersistentSplitterPos>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>CaplNavigator_TopIndex</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>CaplNavigator_Focused</string>
+                  </key>
+                  <value type="System.String">
+                    <string>Includes</string>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>CaplNavigator_Selected</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType>
+                      <anyType xsi:type="xsd:string">Includes</anyType>
+                    </ArrayOfAnyType>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>CaplNavigator_Expanded</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType />
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>CNCVirtualGroups</string>
+                  </key>
+                  <value type="Vector.ITE.Languages.CAPL.Navigator.Model.SerializedNodeList">
+                    <ArrayOfSerializedNode />
+                  </value>
+                </item>
+              </Settings>
+            </ViewSettings>
+            <ViewSettings>
+              <Key>Path_.\CSharp\BasicDiagnostics.cs</Key>
+              <LastTouched>2023-05-12T04:16:05.4299547Z</LastTouched>
+              <Settings>
+                <item>
+                  <key type="System.String">
+                    <string>HorizontalSplitterPos</string>
+                  </key>
+                  <value type="Vector.ITE.Languages.Common.PersistentItems.PersistentSplitterPos">
+                    <PersistentSplitterPos>
+                      <SplitterPos>0</SplitterPos>
+                      <Enabled>false</Enabled>
+                    </PersistentSplitterPos>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>VerticalSplitterPos</string>
+                  </key>
+                  <value type="Vector.ITE.Languages.Common.PersistentItems.PersistentSplitterPos">
+                    <PersistentSplitterPos>
+                      <SplitterPos>0</SplitterPos>
+                      <Enabled>false</Enabled>
+                    </PersistentSplitterPos>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>Outlining</string>
+                  </key>
+                  <value type="Vector.ITE.Utilities.XmlSerialization.SerializableDictionary`2[System.Int32,System.Boolean]">
+                    <SerializableDictionaryOfInt32Boolean>
+                      <item>
+                        <key type="System.Int32">
+                          <int>-1</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>0</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>279</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>335</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                      <item>
+                        <key type="System.Int32">
+                          <int>1058</int>
+                        </key>
+                        <value type="System.Boolean">
+                          <boolean>true</boolean>
+                        </value>
+                      </item>
+                    </SerializableDictionaryOfInt32Boolean>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>Offset</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>FirstVisibleDisplayLineIndex</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+              </Settings>
+            </ViewSettings>
+            <ViewSettings>
+              <Key>SymbolExplorer</Key>
+              <Settings>
+                <item>
+                  <key type="System.String">
+                    <string>State</string>
+                  </key>
+                  <value type="System.String">
+                    <string>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;SymbolSelectionProperties xmlns:i="http://www.w3.org/2001/XMLSchema-instance"&gt;
+&lt;AreDiagQualifiersShown&gt;true&lt;/AreDiagQualifiersShown&gt;
+&lt;CurrentViewId&gt;None&lt;/CurrentViewId&gt;
+&lt;SearchProperties&gt;
+&lt;SearchTermHistory /&gt;
+&lt;/SearchProperties&gt;
+&lt;ViewProperties&gt;
+&lt;ViewProperties&gt;
+&lt;ColumnsProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;0&lt;/Position&gt;
+&lt;Sorting&gt;Ascending&lt;/Sorting&gt;
+&lt;Width&gt;200&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;2&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;3&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;4&lt;/Position&gt;
+&lt;Width&gt;200&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;/ColumnsProperties&gt;
+&lt;Key&gt;Embedded/NetworkSymbols&lt;/Key&gt;
+&lt;NodeTreeProperties /&gt;
+&lt;/ViewProperties&gt;
+&lt;ViewProperties&gt;
+&lt;ColumnsProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;0&lt;/Position&gt;
+&lt;Sorting&gt;Ascending&lt;/Sorting&gt;
+&lt;Width&gt;200&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;2&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;3&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;IsVisible&gt;true&lt;/IsVisible&gt;
+&lt;Position&gt;4&lt;/Position&gt;
+&lt;Width&gt;200&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;ColumnProperties&gt;
+&lt;Position&gt;-1&lt;/Position&gt;
+&lt;Width&gt;100&lt;/Width&gt;
+&lt;/ColumnProperties&gt;
+&lt;/ColumnsProperties&gt;
+&lt;Key&gt;Embedded/&lt;/Key&gt;
+&lt;NodeTreeProperties /&gt;
+&lt;/ViewProperties&gt;
+&lt;/ViewProperties&gt;
+&lt;/SymbolSelectionProperties&gt;</string>
+                  </value>
+                </item>
+              </Settings>
+            </ViewSettings>
+            <ViewSettings>
+              <Key>TraceItemExplorer</Key>
+              <Settings>
+                <item>
+                  <key type="System.String">
+                    <string>TraceItems_TopIndex</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>TraceItems_Focused</string>
+                  </key>
+                  <value type="System.String">
+                    <string>a31342c143aea0ddc8661d</string>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>TraceItems_Selected</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType>
+                      <anyType xsi:type="xsd:string">a31342c143aea0ddc8661d</anyType>
+                    </ArrayOfAnyType>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>TraceItems_Expanded</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType />
+                  </value>
+                </item>
+              </Settings>
+            </ViewSettings>
+            <ViewSettings>
+              <Key>LibraryView</Key>
+              <Settings>
+                <item>
+                  <key type="System.String">
+                    <string>LibraryView_TopIndex</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>LibraryView_Focused</string>
+                  </key>
+                  <value type="null" />
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>LibraryView_Selected</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType />
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>LibraryView_Expanded</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType />
+                  </value>
+                </item>
+              </Settings>
+            </ViewSettings>
+            <ViewSettings>
+              <Key>ProjectView</Key>
+              <Settings>
+                <item>
+                  <key type="System.String">
+                    <string>ProjectView_TopIndex</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>ProjectView_Focused</string>
+                  </key>
+                  <value type="System.String">
+                    <string>vTESTstudio_Project/ProjectRoot/Test Units/CSharp/BasicDiagnostics.cs</string>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>ProjectView_Selected</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType>
+                      <anyType xsi:type="xsd:string">vTESTstudio_Project/ProjectRoot/Test Units/CSharp/BasicDiagnostics.cs</anyType>
+                    </ArrayOfAnyType>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>ProjectView_Expanded</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType>
+                      <anyType xsi:type="xsd:string">vTESTstudio_Project/ProjectRoot</anyType>
+                      <anyType xsi:type="xsd:string">vTESTstudio_Project/ProjectRoot/Test Units/TestTableEditor</anyType>
+                      <anyType xsi:type="xsd:string">vTESTstudio_Project/ProjectRoot/Test Units/TestSequenceDiagram</anyType>
+                      <anyType xsi:type="xsd:string">vTESTstudio_Project/ProjectRoot/Test Units/CSharp</anyType>
+                    </ArrayOfAnyType>
+                  </value>
+                </item>
+              </Settings>
+            </ViewSettings>
+            <ViewSettings>
+              <Key>HomeDirectoryView</Key>
+              <Settings>
+                <item>
+                  <key type="System.String">
+                    <string>HomeDirectoryView_TopIndex</string>
+                  </key>
+                  <value type="System.Int32">
+                    <int>0</int>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>HomeDirectoryView_Focused</string>
+                  </key>
+                  <value type="System.String">
+                    <string>vTESTstudio_Project/D:\DataBackup\Orientation\CentralLockingSystem</string>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>HomeDirectoryView_Selected</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType>
+                      <anyType xsi:type="xsd:string">vTESTstudio_Project/D:\DataBackup\Orientation\CentralLockingSystem</anyType>
+                    </ArrayOfAnyType>
+                  </value>
+                </item>
+                <item>
+                  <key type="System.String">
+                    <string>HomeDirectoryView_Expanded</string>
+                  </key>
+                  <value type="System.Collections.ArrayList">
+                    <ArrayOfAnyType>
+                      <anyType xsi:type="xsd:string">vTESTstudio_Project/D:\DataBackup\Orientation\CentralLockingSystem</anyType>
+                    </ArrayOfAnyType>
+                  </value>
+                </item>
+              </Settings>
+            </ViewSettings>
+          </ArrayOfViewSettings>
+        </value>
+      </item>
+    </SerializableDictionaryOfStringObject>
+  </WindowManagement>
+  <DocumentManagement>
+    <SerializableDictionaryOfStringObject />
+  </DocumentManagement>
+  <BookmarkService>
+    <SerializableDictionaryOfStringObject />
+  </BookmarkService>
+  <SearchAndReplace>
+    <SerializableDictionaryOfStringObject />
+  </SearchAndReplace>
+  <FunctionExplorer>
+    <SerializableDictionaryOfStringObject />
+  </FunctionExplorer>
+  <TempFileRepository>
+    <SerializableDictionaryOfStringObject />
+  </TempFileRepository>
+  <TestTableEditor>
+    <SerializableDictionaryOfStringObject>
+      <item>
+        <key type="System.String">
+          <string>TtRUList</string>
+        </key>
+        <value type="System.Collections.Generic.List`1[System.String]">
+          <ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+        </value>
+      </item>
+    </SerializableDictionaryOfStringObject>
+  </TestTableEditor>
+  <TestSequenceDiagram>
+    <SerializableDictionaryOfStringObject />
+  </TestSequenceDiagram>
+  <LanguagesCommon>
+    <SerializableDictionaryOfStringObject />
+  </LanguagesCommon>
+  <InterfaceFunctionExplorer>
+    <SerializableDictionaryOfStringObject />
+  </InterfaceFunctionExplorer>
+  <ITETester>
+    <SerializableDictionaryOfStringObject />
+  </ITETester>
+  <MeasurePerformance>
+    <SerializableDictionaryOfStringObject />
+  </MeasurePerformance>
+  <TraceItems>
+    <SerializableDictionaryOfStringObject />
+  </TraceItems>
+  <IntelliSymbolManagement>
+    <SerializableDictionaryOfStringObject />
+  </IntelliSymbolManagement>
+  <PrintDialog>
+    <SerializableDictionaryOfStringObject />
+  </PrintDialog>
+  <TestCaseIDGeneration>
+    <SerializableDictionaryOfStringObject />
+  </TestCaseIDGeneration>
+  <StateChartDiagram>
+    <SerializableDictionaryOfStringObject />
+  </StateChartDiagram>
+  <TcAttributesPropagation>
+    <SerializableDictionaryOfStringObject />
+  </TcAttributesPropagation>
+  <WaveformEditor>
+    <SerializableDictionaryOfStringObject />
+  </WaveformEditor>
+  <Application>
+    <SerializableDictionaryOfStringObject />
+  </Application>
+</Settings>

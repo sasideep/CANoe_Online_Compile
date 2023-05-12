@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<tclibrary>
+  <testcase name="CrashDetection" id="1592748419" comment="Tests the locking behavior on crash detection." signature="CrashDetection(int, double)" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\TestTableEditor\LockingTestLibrary.cs" SourceFilePersistencyGuid="eoaui0arhnvi" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="CSharp" class="LockingTestLibrary">
+    <return type="void" raw_type="void" />
+    <parameter name="engineOn" type="long" raw_type="Int32" />
+    <parameter name="velocity" type="float" raw_type="Float" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>562</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+  <testcase name="TC_LockStatically" id="587402344" comment="Checks the static locking behavior of the car" signature="TC_LockStatically()" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\CSharp\LockingSystemTester.cs" SourceFilePersistencyGuid="vetm7ogc7phv" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="CSharp" class="MyTestClass">
+    <return type="void" raw_type="void" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>422</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+  <testcase name="TC_UnlockStatically" id="809918053" comment="Checks the static unlock behavior of the car" signature="TC_UnlockStatically()" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\CSharp\LockingSystemTester.cs" SourceFilePersistencyGuid="vetm7ogc7phv" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="CSharp" class="MyTestClass">
+    <return type="void" raw_type="void" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>1780</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+  <testcase name="TC_CrashDetectionWhileEngineOff" id="3424999123" comment="Checks the crash detection of the car while the engine is off and not moving" signature="TC_CrashDetectionWhileEngineOff()" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\CSharp\LockingSystemTester.cs" SourceFilePersistencyGuid="vetm7ogc7phv" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="CSharp" class="MyTestClass">
+    <return type="void" raw_type="void" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>3210</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+  <testcase name="TC_LockByIncreasingVelocity" id="1227209727" comment="Checks the automatic locking behavior of the car by increasing velocity" signature="TC_LockByIncreasingVelocity()" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\CSharp\LockingSystemTester.cs" SourceFilePersistencyGuid="vetm7ogc7phv" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="CSharp" class="MyTestClass">
+    <return type="void" raw_type="void" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>4402</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+  <testcase name="TC_ApplyCrashWithDifferentVelocities" id="2128948210" comment="" signature="TC_ApplyCrashWithDifferentVelocities(int, int)" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\CSharp\LockingSystemTester.cs" SourceFilePersistencyGuid="vetm7ogc7phv" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="CSharp" class="MyTestClass">
+    <return type="void" raw_type="void" />
+    <parameter name="engineRunning" type="long" raw_type="Int32" />
+    <parameter name="velocity" type="long" raw_type="Int32" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>6199</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+  <testcase name="TC_OpenAndComfortClose" id="1081949334" comment="Checks the open and comfort close of the windows" signature="TC_OpenAndComfortClose()" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\CSharp\LockingSystemTester.cs" SourceFilePersistencyGuid="vetm7ogc7phv" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="CSharp" class="MyTestClass">
+    <return type="void" raw_type="void" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>7459</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+  <testcase name="TC_AmbiguousKeyUpDown" id="3349028078" comment="Checks that a corresponding fault memory entry is created when ambiguous values of KeyUp and KeyDown occur" signature="TC_AmbiguousKeyUpDown(int)" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\CSharp\LockingSystemTester.cs" SourceFilePersistencyGuid="vetm7ogc7phv" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="CSharp" class="MyTestClass">
+    <return type="void" raw_type="void" />
+    <parameter name="engineRunning" type="long" raw_type="Int32" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>9840</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+</tclibrary>

@@ -1,0 +1,106 @@
+﻿/* !Encoding: 65001  */
+includes
+{
+  #include "__VariablesLib.cin"
+  #include "__CaplGeneratorLib.cin"
+  #include "__CANoeReportFuntionsLib.cin"
+}
+
+variables
+{
+  // Global variables defined within this CAPL file
+}
+
+void Ttbfd6cn1_Tet_TtInit()
+{
+
+}
+
+void Ttbfd6cn1_Tet_CaplTcCall0()
+{
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CreateNetIFFunction(__cArray, "MyTestClass", "TC_LockStatically", __eTcDef);
+  AddIFParameterTestCaseAttribute("Lifecycle", "finished");
+  AddIFParameterTestCaseAttribute("Note", "");
+  AddIFParameterTraceItem("a31342c143aea0ddc86623");
+  CallInterfaceFunction(__cEmpty , "", __cEmpty );
+}
+
+void Ttbfd6cn1_Tet_CaplTcCall1()
+{
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CreateNetIFFunction(__cArray, "MyTestClass", "TC_UnlockStatically", __eTcDef);
+  AddIFParameterTestCaseAttribute("Lifecycle", "finished");
+  AddIFParameterTestCaseAttribute("Note", "");
+  AddIFParameterTraceItem("a31342c143aea0ddc86629");
+  CallInterfaceFunction(__cEmpty , "", __cEmpty );
+}
+
+void Ttbfd6cn1_Tet_CaplTcCall2()
+{
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CreateNetIFFunction(__cArray, "MyTestClass", "TC_CrashDetectionWhileEngineOff", __eTcDef);
+  AddIFParameterTestCaseAttribute("Lifecycle", "in implementation");
+  AddIFParameterTestCaseAttribute("Note", "");
+  CallInterfaceFunction(__cEmpty , "", __cEmpty );
+}
+
+void Ttbfd6cn1_Tet_CaplTcCall3()
+{
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CreateNetIFFunction(__cArray, "LockingTestLibrary", "CrashDetection", __eTcDef);
+  AddIFParameterTestCaseAttribute("Lifecycle", "ready for review");
+  AddIFParameterTestCaseAttribute("Note", "Use test case list instead?");
+  AddIFParameterTraceItem("a31342c143aea0ddc86641");
+  AddIFParameterLong(0);
+  AddIFParameterDouble(60);
+  CallInterfaceFunction(__cEmpty , "", __cEmpty );
+}
+
+void Ttbfd6cn1_Tet_CaplTcCall4()
+{
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CreateNetIFFunction(__cArray, "LockingTestLibrary", "CrashDetection", __eTcDef);
+  AddIFParameterTestCaseAttribute("Lifecycle", "ready for review");
+  AddIFParameterTestCaseAttribute("Note", "Use test case list instead?");
+  AddIFParameterTraceItem("a31342c143aea0ddc86641");
+  AddIFParameterLong(1);
+  AddIFParameterDouble(60);
+  CallInterfaceFunction(__cEmpty , "", __cEmpty );
+}
+
+void Ttbfd6cn1_Tet_CaplTcCall5()
+{
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CreateNetIFFunction(__cArray, "MyTestClass", "TC_LockByIncreasingVelocity", __eTcDef);
+  AddIFParameterTestCaseAttribute("Lifecycle", "finished");
+  AddIFParameterTestCaseAttribute("Note", "");
+  AddIFParameterTraceItem("a31342c143aea0ddc86635");
+  CallInterfaceFunction(__cEmpty , "", __cEmpty );
+}
+
+void Ttbfd6cn1_Tet_NetTcCall0()
+{
+  AddIFParameterTestCaseAttribute("Lifecycle", "ready for review");
+  AddIFParameterTestCaseAttribute("Note", "Use parameters from parameter file instead of single values");
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CallNetTCList(__cArray, "MyTestClass", "TC_ApplyCrashWithDifferentVelocities", "Int32,Int32", "ad209eabd6778fcdcce3afb2f6e88f2f");
+}
+
+void Ttbfd6cn1_Tet_CaplTcCall6()
+{
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CreateNetIFFunction(__cArray, "MyTestClass", "TC_OpenAndComfortClose", __eTcDef);
+  AddIFParameterTestCaseAttribute("Lifecycle", "finished");
+  AddIFParameterTestCaseAttribute("Note", "");
+  CallInterfaceFunction(__cEmpty , "", __cEmpty );
+}
+
+void Ttbfd6cn1_Tet_NetTcCall1()
+{
+  AddIFParameterTestCaseAttribute("Lifecycle", "in implementation");
+  AddIFParameterTestCaseAttribute("Note", "Use parameters from parameter file instead of single values");
+  TestGetTestClientNameCIdentifier(__cArray, 8192);
+  CallNetTCList(__cArray, "MyTestClass", "TC_AmbiguousKeyUpDown", "Int32", "ed27cb18cf6b54ce14ba531c3f5a70f9");
+}
+

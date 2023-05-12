@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<tclibrary>
+  <helperfunction name="Checkpoints_e1ed67b8b1e64d7fbb7ba67a62ddcf75" id="0" comment="" signature="" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\TestSequenceDiagram\VelocityWaveform.vwf" SourceFilePersistencyGuid="3dn3sh19qrg9" IsPrivate="true" IsNetSignatureAndDefinedInExternalDll="true">
+    <document_position><![CDATA[<WaveformDocumentPosition xmlns:SerializedType="Vector.ITE.WaveformEditor.Editor.WaveformDocumentPosition"><WaveformPositionType>Name</WaveformPositionType><Guid>e1ed67b8-b1e6-4d7f-bb7b-a67a62ddcf75</Guid></WaveformDocumentPosition>]]></document_position>
+    <implementation_language lang="TTE" />
+  </helperfunction>
+  <helperfunction name="Checkpoints_0257a20c23894fc48db2f68f6fb8081a" id="0" comment="" signature="" file="D:\DataBackup\Orientation\CentralLockingSystem\vTESTstudio_Project\TestSequenceDiagram\VelocityWaveform.vwf" SourceFilePersistencyGuid="3dn3sh19qrg9" IsPrivate="true" IsNetSignatureAndDefinedInExternalDll="true">
+    <document_position><![CDATA[<WaveformDocumentPosition xmlns:SerializedType="Vector.ITE.WaveformEditor.Editor.WaveformDocumentPosition"><WaveformPositionType>Name</WaveformPositionType><Guid>0257a20c-2389-4fc4-8db2-f68f6fb8081a</Guid></WaveformDocumentPosition>]]></document_position>
+    <implementation_language lang="TTE" />
+  </helperfunction>
+</tclibrary>

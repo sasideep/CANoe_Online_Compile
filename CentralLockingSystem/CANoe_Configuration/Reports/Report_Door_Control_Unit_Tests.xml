@@ -1,0 +1,1239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testreport starttime="2023-05-12 16:16:08" timestamp="884.130000" verdicts="5_extended" reportrunstate="TestComplete" abortmode="None" reportuniqueid="5e807a46-0151-47df-8a55-9e71ea46c244" measurementid="53bf34f0-298f-415f-a959-f88f00b52afb">
+  <testunit starttime="2023-05-12 16:16:08" timestamp="884.130000">
+    <testgroup>
+      <testcase starttime="2023-05-12 16:16:08" timestamp="884.130000" tcnumber="1">
+        <verdict time="2023-05-12 16:16:08" timestamp="884.830000" endtime="2023-05-12 16:16:09" endtimestamp="886.330000" result="pass" />
+        <title>Lock statically</title>
+        <testcaseid>6e13ea63-00fe-49c3-98f5-65bc5761b4a2</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="886.330000" tcnumber="2">
+        <verdict time="2023-05-12 16:16:09" timestamp="887.030000" endtime="2023-05-12 16:16:09" endtimestamp="888.530000" result="pass" />
+        <title>Unlock statically</title>
+        <testcaseid>260a23b1-1fa5-4655-81a3-3690dbc99970</testcaseid>
+        <externalref type="PREEvision" title="unlock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86629" readableid="3298800000">preevision://myServer/Ma31342c143aea0ddc8662aXMa31342c143aea0ddc8662910Ma31342c143aea0ddc86629</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcaselist>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="888.530000" tcnumber="3">
+          <verdict time="2023-05-12 16:16:09" timestamp="890.030000" endtime="2023-05-12 16:16:09" endtimestamp="890.530000" result="pass" />
+          <title>Crash detection while engine is moving (engineOn=0,velocity=40)</title>
+          <testcaseid>f3f372a2-10ab-5cff-bd37-08809a6b2a7a</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>reopened</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="890.530000" tcnumber="4">
+          <verdict time="2023-05-12 16:16:09" timestamp="892.030000" endtime="2023-05-12 16:16:09" endtimestamp="892.530000" result="pass" />
+          <title>Crash detection while engine is moving (engineOn=0,velocity=60)</title>
+          <testcaseid>50ed2b53-cc20-f46a-3ae7-822829a47edc</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>reopened</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="892.530000" tcnumber="5">
+          <verdict time="2023-05-12 16:16:09" timestamp="894.030000" endtime="2023-05-12 16:16:09" endtimestamp="895.030000" result="pass" />
+          <title>Crash detection while engine is moving (engineOn=1,velocity=40)</title>
+          <testcaseid>fdb1428d-2bd8-59f7-de90-fccbb530d2bb</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>reopened</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="895.030000" tcnumber="6">
+          <verdict time="2023-05-12 16:16:09" timestamp="896.530000" endtime="2023-05-12 16:16:09" endtimestamp="897.530000" result="pass" />
+          <title>Crash detection while engine is moving (engineOn=1,velocity=60)</title>
+          <testcaseid>54e21304-efef-8aa4-757e-3856c16ced0e</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>reopened</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <title>Crash detection while engine is moving</title>
+      </testcaselist>
+      <title>Test static requirements of the door control unit</title>
+    </testgroup>
+    <testfixture>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="897.530000" tcnumber="7">
+        <verdict time="2023-05-12 16:16:09" timestamp="898.230000" endtime="2023-05-12 16:16:09" endtimestamp="909.030000" result="pass" />
+        <title>Lock by increasing velocity</title>
+        <testcaseid>3ba95eed-f642-44dd-bab3-ff98ce81c8f7</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="909.030000" tcnumber="8">
+        <verdict time="2023-05-12 16:16:09" timestamp="909.730000" endtime="2023-05-12 16:16:09" endtimestamp="916.730000" result="pass" />
+        <title>No unlock when slowing down</title>
+        <testcaseid>5df607e7-bfb1-490a-8176-e484476255a9</testcaseid>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="916.730000" tcnumber="9">
+        <verdict time="2023-05-12 16:16:09" timestamp="919.330000" endtime="2023-05-12 16:16:09" endtimestamp="921.480000" result="pass" />
+        <title>Check locking behavior with velocity waveform</title>
+        <testcaseid>2d3a6250-0c46-48b5-817a-b384940bdcc5</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testsequence starttime="2023-05-12 16:16:09" timestamp="921.480000">
+        <testcase starttime="2023-05-12 16:16:09" timestamp="921.480000" tcnumber="10">
+          <verdict time="2023-05-12 16:16:09" timestamp="922.480000" endtime="2023-05-12 16:16:09" endtimestamp="923.480000" result="pass" />
+          <title>Crash detection when car is moving with velocity 10</title>
+          <testcaseid>91360866-9ce0-4e7e-a612-f74be4cbef39</testcaseid>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value />
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="923.480000" tcnumber="11">
+          <verdict time="2023-05-12 16:16:09" timestamp="924.480000" endtime="2023-05-12 16:16:09" endtimestamp="925.480000" result="pass" />
+          <title>Crash detection when car is moving with velocity 15</title>
+          <testcaseid>91360866-9ce0-4e7e-a612-f74be4cbef39</testcaseid>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value />
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="925.480000" tcnumber="12">
+          <verdict time="2023-05-12 16:16:09" timestamp="926.480000" endtime="2023-05-12 16:16:09" endtimestamp="927.480000" result="pass" />
+          <title>Crash detection when car is moving with velocity 25</title>
+          <testcaseid>91360866-9ce0-4e7e-a612-f74be4cbef39</testcaseid>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value />
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="927.480000" tcnumber="13">
+          <verdict time="2023-05-12 16:16:09" timestamp="928.480000" endtime="2023-05-12 16:16:09" endtimestamp="929.480000" result="pass" />
+          <title>Crash detection when car is moving with velocity 50</title>
+          <testcaseid>91360866-9ce0-4e7e-a612-f74be4cbef39</testcaseid>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value />
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="929.480000" tcnumber="14">
+          <verdict time="2023-05-12 16:16:09" timestamp="930.480000" endtime="2023-05-12 16:16:09" endtimestamp="931.480000" result="pass" />
+          <title>Crash detection when car is moving with velocity 55</title>
+          <testcaseid>91360866-9ce0-4e7e-a612-f74be4cbef39</testcaseid>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value />
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="931.480000" tcnumber="15">
+          <verdict time="2023-05-12 16:16:09" timestamp="932.480000" endtime="2023-05-12 16:16:09" endtimestamp="933.480000" result="pass" />
+          <title>Crash detection when car is moving with velocity 100</title>
+          <testcaseid>91360866-9ce0-4e7e-a612-f74be4cbef39</testcaseid>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value />
+            </attribute>
+          </attributes>
+        </testcase>
+        <title>Apply crash with different velocities</title>
+        <seqend endtime="2023-05-12 16:16:09" endtimestamp="933.480000" />
+      </testsequence>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="933.480000" tcnumber="16">
+        <verdict time="2023-05-12 16:16:09" timestamp="934.980000" endtime="2023-05-12 16:16:09" endtimestamp="954.980000" result="pass" />
+        <title>Lock dependent on velocity and crash detection</title>
+        <testcaseid>dfbfaf8e-928d-410b-bff8-c64569099b03</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use test sequence with loop around test cases instead?</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcaselist>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="954.980000" tcnumber="17">
+          <verdict time="2023-05-12 16:16:09" timestamp="956.180000" endtime="2023-05-12 16:16:09" endtimestamp="956.680000" result="pass" />
+          <title>For engine = 0, moving = 0 and applied crash = 1, check lock state == Locked</title>
+          <testcaseid>070e4ebf-e076-c4c3-2de7-fa00fff4069b</testcaseid>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Candidate for classification tree.</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="956.680000" tcnumber="18">
+          <verdict time="2023-05-12 16:16:09" timestamp="957.880000" endtime="2023-05-12 16:16:09" endtimestamp="958.380000" result="pass" />
+          <title>For engine = 0, moving = 1 and applied crash = 1, check lock state == Unlocked</title>
+          <testcaseid>86ebf9f4-3848-2497-f044-ebf26db82e32</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Candidate for classification tree.</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="958.380000" tcnumber="19">
+          <verdict time="2023-05-12 16:16:09" timestamp="959.580000" endtime="2023-05-12 16:16:09" endtimestamp="960.080000" result="pass" />
+          <title>For engine = 1, moving = 0 and applied crash = 0, check lock state == Locked</title>
+          <testcaseid>313bda76-5d5b-38f7-3618-43af3367bd22</testcaseid>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Candidate for classification tree.</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="960.080000" tcnumber="20">
+          <verdict time="2023-05-12 16:16:09" timestamp="961.280000" endtime="2023-05-12 16:16:09" endtimestamp="961.780000" result="pass" />
+          <title>For engine = 1, moving = 1 and applied crash = 1, check lock state == Unlocked</title>
+          <testcaseid>121a8624-5cea-f4e0-1884-5f18e542230c</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>finished</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Candidate for classification tree.</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <title>Lock with car moving/not moving</title>
+      </testcaselist>
+      <title>Test velocity dependent requirements of the door control unit</title>
+    </testfixture>
+    <testgroup>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="961.780000" tcnumber="21">
+        <verdict time="2023-05-12 16:16:09" timestamp="971.380000" endtime="2023-05-12 16:16:09" endtimestamp="971.980000" result="pass" />
+        <title>Open and comfort close</title>
+        <testcaseid>0d4f7b4c-8c8d-4b7c-ac8f-ac0e9563fca2</testcaseid>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <title>Comfort close</title>
+    </testgroup>
+    <verdict time="2023-05-12 16:16:09" timestamp="971.980000" endtime="2023-05-12 16:16:08" endtimestamp="884.830000" result="pass" />
+    <title>Central Locking System Test with Test Tables</title>
+    <instancename>TestTableEditor</instancename>
+    <variantinfo>
+      <variantproperty>
+        <name>Region</name>
+        <value>US</value>
+        <modifiable>false</modifiable>
+      </variantproperty>
+      <variantproperty>
+        <name>Coverage</name>
+        <value>Medium</value>
+        <modifiable>true</modifiable>
+      </variantproperty>
+    </variantinfo>
+  </testunit>
+  <testunit starttime="2023-05-12 16:16:09" timestamp="971.980000">
+    <testfixture>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="971.980000" tcnumber="22">
+        <verdict time="2023-05-12 16:16:09" timestamp="972.483976" endtime="2023-05-12 16:16:09" endtimestamp="973.486928" result="pass" />
+        <title>Engine=On_V=0_ManualUnlocked</title>
+        <testcaseid>da8d0dd1-144c-3b8a-cc4d-9b56b0881d3d</testcaseid>
+        <externalref type="PREEvision" title="unlock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86629" readableid="3298800000">preevision://myServer/Ma31342c143aea0ddc8662aXMa31342c143aea0ddc8662910Ma31342c143aea0ddc86629</externalref>
+        <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="973.486928" tcnumber="23">
+        <verdict time="2023-05-12 16:16:09" timestamp="973.989976" endtime="2023-05-12 16:16:09" endtimestamp="974.992928" result="pass" />
+        <title>Engine=On_V=0_ManualLocked_Crash</title>
+        <testcaseid>b20143ca-8274-05e8-903d-c20c9301e00a</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="974.992928" tcnumber="24">
+        <verdict time="2023-05-12 16:16:09" timestamp="975.495976" endtime="2023-05-12 16:16:09" endtimestamp="976.498928" result="pass" />
+        <title>Engine=On_V=0_ManualLocked_Engine=Off</title>
+        <testcaseid>399416a4-8ad2-2259-ae36-900e32cc448a</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="976.498928" tcnumber="25">
+        <verdict time="2023-05-12 16:16:09" timestamp="977.004460" endtime="2023-05-12 16:16:09" endtimestamp="978.007928" result="pass" />
+        <title>Engine=On_V&lt;LockVel_ManualUnlocked</title>
+        <testcaseid>f0fcdf6c-f031-080a-5674-c00e6e21790f</testcaseid>
+        <externalref type="PREEvision" title="unlock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86629" readableid="3298800000">preevision://myServer/Ma31342c143aea0ddc8662aXMa31342c143aea0ddc8662910Ma31342c143aea0ddc86629</externalref>
+        <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="978.007928" tcnumber="26">
+        <verdict time="2023-05-12 16:16:09" timestamp="978.510976" endtime="2023-05-12 16:16:09" endtimestamp="979.513928" result="pass" />
+        <title>Engine=On_V&lt;LockVel_ManualLocked_Crash</title>
+        <testcaseid>ca5fa515-fc82-1077-f8ab-e70379001132</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="979.513928" tcnumber="27">
+        <verdict time="2023-05-12 16:16:09" timestamp="980.016976" endtime="2023-05-12 16:16:09" endtimestamp="981.019928" result="pass" />
+        <title>Engine=On_V&lt;LockVel_ManualLocked_Engine=Off</title>
+        <testcaseid>40fae1c0-15d9-0143-3ea4-7b2c59045a35</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="981.019928" tcnumber="28">
+        <verdict time="2023-05-12 16:16:09" timestamp="981.522976" endtime="2023-05-12 16:16:09" endtimestamp="982.775928" result="pass" />
+        <title>Engine=On_V=LockVel_ManualLocked_V=LockVel_Crash</title>
+        <testcaseid>40551c6a-0d05-3d64-a2ba-4289a6500c22</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="982.775928" tcnumber="29">
+        <verdict time="2023-05-12 16:16:09" timestamp="983.278976" endtime="2023-05-12 16:16:09" endtimestamp="984.531928" result="pass" />
+        <title>Engine=On_V=LockVel_ManualLocked_V=LockVel_Engine=Off</title>
+        <testcaseid>9715d5f9-ad3a-5e2a-0749-0cf4f32eac32</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="984.531928" tcnumber="30">
+        <verdict time="2023-05-12 16:16:09" timestamp="985.034976" endtime="2023-05-12 16:16:09" endtimestamp="986.287928" result="pass" />
+        <title>Engine=On_V=LockVel_ManualLocked_V&lt;LockVel_Crash</title>
+        <testcaseid>9e63f791-9a13-5fae-dcdb-1388cee0e300</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="986.287928" tcnumber="31">
+        <verdict time="2023-05-12 16:16:09" timestamp="986.790976" endtime="2023-05-12 16:16:09" endtimestamp="988.043928" result="pass" />
+        <title>Engine=On_V=LockVel_ManualLocked_V&lt;LockVel_Engine=Off</title>
+        <testcaseid>c6021239-52e0-84a9-d88f-de0861f73cf4</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="988.043928" tcnumber="32">
+        <verdict time="2023-05-12 16:16:09" timestamp="988.546976" endtime="2023-05-12 16:16:09" endtimestamp="989.799928" result="pass" />
+        <title>Engine=On_V=LockVel_ManualUnlocked_V&lt;LockVel</title>
+        <testcaseid>86fe1248-1806-1e4e-60d3-5396d1899867</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="989.799928" tcnumber="33">
+        <verdict time="2023-05-12 16:16:09" timestamp="990.305460" endtime="2023-05-12 16:16:09" endtimestamp="991.558928" result="pass" />
+        <title>Engine=On_V&gt;LockVel_ManualLocked_V=LockVel_Crash</title>
+        <testcaseid>e155e9e7-e4dc-e2ed-78bc-634bfef118b7</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="991.558928" tcnumber="34">
+        <verdict time="2023-05-12 16:16:09" timestamp="992.061976" endtime="2023-05-12 16:16:09" endtimestamp="993.314928" result="pass" />
+        <title>Engine=On_V&gt;LockVel_ManualLocked_V=LockVel_Engine=Off</title>
+        <testcaseid>96794e8b-9461-bf9a-6884-6ffa10e8a868</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="993.314928" tcnumber="35">
+        <verdict time="2023-05-12 16:16:09" timestamp="993.817976" endtime="2023-05-12 16:16:09" endtimestamp="995.070928" result="pass" />
+        <title>Engine=On_V&gt;LockVel_ManualLocked_V&lt;LockVel_Crash</title>
+        <testcaseid>ca735588-c172-2901-7246-9d32adf4fa9e</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="995.070928" tcnumber="36">
+        <verdict time="2023-05-12 16:16:09" timestamp="995.573976" endtime="2023-05-12 16:16:09" endtimestamp="996.826928" result="pass" />
+        <title>Engine=On_V&gt;LockVel_ManualLocked_V&lt;LockVel_Engine=Off</title>
+        <testcaseid>8367edf1-6fd6-3fc4-c2ad-a7b20dbe3f2e</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="996.826928" tcnumber="37">
+        <verdict time="2023-05-12 16:16:09" timestamp="997.329976" endtime="2023-05-12 16:16:09" endtimestamp="998.582928" result="pass" />
+        <title>Engine=On_V&gt;LockVel_ManualUnlocked_V&lt;LockVel</title>
+        <testcaseid>4e42b4f2-4e18-2636-93d9-4ec32d865734</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="998.582928" tcnumber="38">
+        <verdict time="2023-05-12 16:16:09" timestamp="999.085976" endtime="2023-05-12 16:16:09" endtimestamp="999.838928" result="pass" />
+        <title>Engine=Off</title>
+        <testcaseid>6e36f926-102e-7626-3e4c-62210da02340</testcaseid>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>almost done, final details to be completed only</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <title>LockingSystemTester</title>
+    </testfixture>
+    <testfixture>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="999.838928" tcnumber="39">
+        <verdict time="2023-05-12 16:16:09" timestamp="1000.341976" endtime="2023-05-12 16:16:09" endtimestamp="1001.194928" result="pass" />
+        <title>Check lock by increasing velocity</title>
+        <testcaseid>af8383cb-0d99-51f8-677e-43f45804f78f</testcaseid>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1001.194928" tcnumber="40">
+        <verdict time="2023-05-12 16:16:09" timestamp="1001.697976" endtime="2023-05-12 16:16:09" endtimestamp="1002.400928" result="pass" />
+        <title>Check no unlock when slowing down</title>
+        <testcaseid>e6f42565-8358-fd2e-5138-4941223b52d0</testcaseid>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1002.400928" tcnumber="41">
+        <verdict time="2023-05-12 16:16:09" timestamp="1002.905460" endtime="2023-05-12 16:16:09" endtimestamp="1008.005412" result="pass" />
+        <title>Check lock/unlock</title>
+        <testcaseid>31548370-1d05-ec0f-327e-1c0b4171b2e7</testcaseid>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <title>LockVelocityTester</title>
+    </testfixture>
+    <verdict time="2023-05-12 16:16:09" timestamp="1008.005412" endtime="2023-05-12 16:16:09" endtimestamp="972.483976" result="pass" />
+    <title>Central Locking System Test with Test Sequence Diagrams</title>
+    <instancename>TestSequenceDiagram</instancename>
+    <variantinfo>
+      <variantproperty>
+        <name>Region</name>
+        <value>US</value>
+        <modifiable>false</modifiable>
+      </variantproperty>
+      <variantproperty>
+        <name>Coverage</name>
+        <value>Medium</value>
+        <modifiable>true</modifiable>
+      </variantproperty>
+    </variantinfo>
+  </testunit>
+  <testunit starttime="2023-05-12 16:16:09" timestamp="1008.005412">
+    <testfixture>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1008.005412" tcnumber="42">
+        <verdict time="2023-05-12 16:16:09" timestamp="1008.008976" endtime="2023-05-12 16:16:09" endtimestamp="1010.011928" result="pass" />
+        <title>Initialize_LockRequest=RequestUnlock_LockRequest=RequestLock_Finalize</title>
+        <testcaseid>f60ad838-a757-5338-35db-06596e2bed0e</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>ready for review</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use algorithm for short paths (based on breadth-first search)</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1010.011928" tcnumber="43">
+        <verdict time="2023-05-12 16:16:09" timestamp="1010.014976" endtime="2023-05-12 16:16:09" endtimestamp="1012.017928" result="pass" />
+        <title>Initialize_0&lt;Velocity&lt;LockVelocity_LockRequest=RequestLock_Finalize</title>
+        <testcaseid>e323d94b-9fc3-658f-884f-0b1e47522b91</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>ready for review</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use algorithm for short paths (based on breadth-first search)</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1012.017928" tcnumber="44">
+        <verdict time="2023-05-12 16:16:09" timestamp="1012.020976" endtime="2023-05-12 16:16:09" endtimestamp="1013.523928" result="pass" />
+        <title>Initialize_Velocity&gt;LockVelocity_Finalize</title>
+        <testcaseid>7cf15bd4-e860-2bd7-9c84-1ad07f325989</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>ready for review</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use algorithm for short paths (based on breadth-first search)</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1013.523928" tcnumber="45">
+        <verdict time="2023-05-12 16:16:09" timestamp="1013.526976" endtime="2023-05-12 16:16:09" endtimestamp="1016.029928" result="pass" />
+        <title>Initialize_LockRequest=RequestLock_LockRequest=RequestUnlock(2)_LockRequest=RequestLock_Finalize</title>
+        <testcaseid>ed18937a-8997-a1fb-5a1b-7a1ad48812ae</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <externalref type="PREEvision" title="unlock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86629" readableid="3298800000">preevision://myServer/Ma31342c143aea0ddc8662aXMa31342c143aea0ddc8662910Ma31342c143aea0ddc86629</externalref>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>ready for review</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use algorithm for short paths (based on breadth-first search)</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1016.029928" tcnumber="46">
+        <verdict time="2023-05-12 16:16:09" timestamp="1016.032976" endtime="2023-05-12 16:16:09" endtimestamp="1018.035928" result="pass" />
+        <title>Initialize_LockRequest=RequestLock_LockRequest=RequestLock(2)_Finalize</title>
+        <testcaseid>0ba91993-ebde-70a6-46f0-56ed082e5b29</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>ready for review</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use algorithm for short paths (based on breadth-first search)</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1018.035928" tcnumber="47">
+        <verdict time="2023-05-12 16:16:09" timestamp="1018.038976" endtime="2023-05-12 16:16:09" endtimestamp="1020.041928" result="pass" />
+        <title>Initialize_LockRequest=RequestLock_Velocity&lt;LockVelocity_Finalize</title>
+        <testcaseid>8732a760-7e49-9958-806c-64e42fbac957</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <externalref type="PREEvision" title="no unlock by slowing down" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc8663b" readableid="3298830000">preevision://myServer/Ma31342c143aea0ddc8663cXMa31342c143aea0ddc8663b10Ma31342c143aea0ddc8663b</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>ready for review</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use algorithm for short paths (based on breadth-first search)</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <title>LockingSystemTester</title>
+    </testfixture>
+    <verdict time="2023-05-12 16:16:09" timestamp="1020.041928" endtime="2023-05-12 16:16:09" endtimestamp="1008.008976" result="pass" />
+    <title>Central Locking System Test with State Diagrams</title>
+    <instancename>StateDiagram</instancename>
+    <variantinfo>
+      <variantproperty>
+        <name>Region</name>
+        <value>US</value>
+        <modifiable>true</modifiable>
+      </variantproperty>
+      <variantproperty>
+        <name>Coverage</name>
+        <value>Medium</value>
+        <modifiable>true</modifiable>
+      </variantproperty>
+    </variantinfo>
+  </testunit>
+  <testunit starttime="2023-05-12 16:16:09" timestamp="1020.041928">
+    <testgroup>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1020.041928" tcnumber="48">
+        <verdict time="2023-05-12 16:16:09" timestamp="1021.041928" endtime="2023-05-12 16:16:09" endtimestamp="1022.041928" result="pass" />
+        <title>Lock statically</title>
+        <testcaseid>d0e07d00-1258-4730-a553-25a49a111efe</testcaseid>
+        <externalref type="PREEvision" title="lock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86623" readableid="3298790000">preevision://myServer/Ma31342c143aea0ddc86624XMa31342c143aea0ddc8662310Ma31342c143aea0ddc86623</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1022.041928" tcnumber="49">
+        <verdict time="2023-05-12 16:16:09" timestamp="1023.041928" endtime="2023-05-12 16:16:09" endtimestamp="1024.041928" result="pass" />
+        <title>Unlock statically</title>
+        <testcaseid>7df46b81-a987-4d15-9360-5cb410e718f5</testcaseid>
+        <externalref type="PREEvision" title="unlock statically" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86629" readableid="3298800000">preevision://myServer/Ma31342c143aea0ddc8662aXMa31342c143aea0ddc8662910Ma31342c143aea0ddc86629</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1024.041928" tcnumber="50">
+        <verdict time="2023-05-12 16:16:09" timestamp="1025.541928" endtime="2023-05-12 16:16:09" endtimestamp="1026.041928" result="pass" />
+        <title>Crash detection while engine is off and not moving</title>
+        <testcaseid>be0c14a7-fe6f-46e1-88ad-ce62f4993c6d</testcaseid>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>in implementation</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1026.041928" tcnumber="51">
+        <verdict time="2023-05-12 16:16:09" timestamp="1027.541928" endtime="2023-05-12 16:16:09" endtimestamp="1028.041928" result="pass" />
+        <title>Crash detection while engine is off and moving</title>
+        <testcaseid>35daeae7-765a-485e-9476-f469e7d2f077</testcaseid>
+        <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>ready for review</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use test case list instead?</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1028.041928" tcnumber="52">
+        <verdict time="2023-05-12 16:16:09" timestamp="1029.541928" endtime="2023-05-12 16:16:09" endtimestamp="1030.541928" result="pass" />
+        <title>Crash detection while engine is running</title>
+        <testcaseid>42a320a6-f30f-4c7b-86ed-3bec7a254f4f</testcaseid>
+        <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>ready for review</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value>Use test case list instead?</value>
+          </attribute>
+        </attributes>
+      </testcase>
+      <title>Test static requirements of the door control unit</title>
+    </testgroup>
+    <testgroup>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1030.541928" tcnumber="53">
+        <verdict time="2023-05-12 16:16:09" timestamp="1034.241928" endtime="2023-05-12 16:16:09" endtimestamp="1042.341928" result="pass" />
+        <title>Lock by increasing velocity</title>
+        <testcaseid>7fdbfb32-c864-4ec6-aae4-75974eaf0703</testcaseid>
+        <externalref type="PREEvision" title="lock by increasing velocity" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86635" readableid="3298820000">preevision://myServer/Ma31342c143aea0ddc86636XMa31342c143aea0ddc8663510Ma31342c143aea0ddc86635</externalref>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <testcaselist>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1042.341928" tcnumber="54">
+          <verdict time="2023-05-12 16:16:09" timestamp="1044.341928" endtime="2023-05-12 16:16:09" endtimestamp="1044.841928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=0,velocity=10)</title>
+          <testcaseid>d878f164-1965-0379-7198-1af6c524d55f</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1044.841928" tcnumber="55">
+          <verdict time="2023-05-12 16:16:09" timestamp="1046.841928" endtime="2023-05-12 16:16:09" endtimestamp="1047.341928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=0,velocity=15)</title>
+          <testcaseid>abd30483-3891-d383-6422-5b55ba6031fa</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1047.341928" tcnumber="56">
+          <verdict time="2023-05-12 16:16:09" timestamp="1049.341928" endtime="2023-05-12 16:16:09" endtimestamp="1049.841928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=0,velocity=25)</title>
+          <testcaseid>e511a6f9-79ea-2545-ccd1-dfa5b08ffa8a</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1049.841928" tcnumber="57">
+          <verdict time="2023-05-12 16:16:09" timestamp="1051.841928" endtime="2023-05-12 16:16:09" endtimestamp="1052.341928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=0,velocity=50)</title>
+          <testcaseid>838326cd-c7a8-ce54-e5c3-eeb11a66c79a</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1052.341928" tcnumber="58">
+          <verdict time="2023-05-12 16:16:09" timestamp="1054.341928" endtime="2023-05-12 16:16:09" endtimestamp="1054.841928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=0,velocity=55)</title>
+          <testcaseid>2bdc134d-df57-a3cf-e887-ecb3e642a82a</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1054.841928" tcnumber="59">
+          <verdict time="2023-05-12 16:16:09" timestamp="1056.841928" endtime="2023-05-12 16:16:09" endtimestamp="1057.341928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=0,velocity=100)</title>
+          <testcaseid>c2ce9526-3c80-13d5-5b22-7d3eda9498b9</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1057.341928" tcnumber="60">
+          <verdict time="2023-05-12 16:16:09" timestamp="1059.341928" endtime="2023-05-12 16:16:09" endtimestamp="1059.841928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=1,velocity=10)</title>
+          <testcaseid>232ac67f-c4a3-fb20-9fab-7d687cc6eeeb</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1059.841928" tcnumber="61">
+          <verdict time="2023-05-12 16:16:09" timestamp="1061.841928" endtime="2023-05-12 16:16:09" endtimestamp="1062.341928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=1,velocity=15)</title>
+          <testcaseid>50d5ea18-5b0f-44a2-218d-8bd0bbaff74f</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1062.341928" tcnumber="62">
+          <verdict time="2023-05-12 16:16:09" timestamp="1064.341928" endtime="2023-05-12 16:16:09" endtimestamp="1064.841928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=1,velocity=25)</title>
+          <testcaseid>dfac9646-7ebb-2dec-fadb-9b5cb5a3011d</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1064.841928" tcnumber="63">
+          <verdict time="2023-05-12 16:16:09" timestamp="1066.841928" endtime="2023-05-12 16:16:09" endtimestamp="1067.341928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=1,velocity=50)</title>
+          <testcaseid>4cdbe202-a4d2-53ad-b208-1a05181ed227</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1067.341928" tcnumber="64">
+          <verdict time="2023-05-12 16:16:09" timestamp="1069.341928" endtime="2023-05-12 16:16:09" endtimestamp="1069.841928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=1,velocity=55)</title>
+          <testcaseid>a3b76b83-98ba-85b4-7ab5-7bbe0f691217</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <testcase starttime="2023-05-12 16:16:09" timestamp="1069.841928" tcnumber="65">
+          <verdict time="2023-05-12 16:16:09" timestamp="1071.841928" endtime="2023-05-12 16:16:09" endtimestamp="1072.341928" result="pass" />
+          <title>Apply crash with different velocities (engineRunning=1,velocity=100)</title>
+          <testcaseid>5b9637ea-9239-b914-7925-de9863b49091</testcaseid>
+          <externalref type="PREEvision" title="crash detection when car is moving" owner="vTESTstudio Traceability" uniqueid="a31342c143aea0ddc86641" readableid="3298840000">preevision://myServer/Ma31342c143aea0ddc86642XMa31342c143aea0ddc8664110Ma31342c143aea0ddc86641</externalref>
+          <attributes>
+            <attribute>
+              <name>Lifecycle</name>
+              <value>ready for review</value>
+            </attribute>
+            <attribute>
+              <name>Note</name>
+              <value>Use parameters from parameter file instead of single values</value>
+            </attribute>
+          </attributes>
+        </testcase>
+        <title>Apply crash with different velocities</title>
+      </testcaselist>
+      <title>Test velocity dependent requirements of the door control unit</title>
+    </testgroup>
+    <testgroup>
+      <testcase starttime="2023-05-12 16:16:09" timestamp="1072.341928" tcnumber="66">
+        <verdict time="2023-05-12 16:16:09" timestamp="1081.941928" endtime="2023-05-12 16:16:09" endtimestamp="1082.541928" result="pass" />
+        <title>Open and comfort close</title>
+        <testcaseid>c57ecc46-9989-430f-b626-9599e6eb5443</testcaseid>
+        <attributes>
+          <attribute>
+            <name>Lifecycle</name>
+            <value>finished</value>
+          </attribute>
+          <attribute>
+            <name>Note</name>
+            <value />
+          </attribute>
+        </attributes>
+      </testcase>
+      <title>Comfort close</title>
+    </testgroup>
+    <verdict time="2023-05-12 16:16:09" timestamp="1082.541928" endtime="2023-05-12 16:16:09" endtimestamp="1021.041928" result="pass" />
+    <title>Central Locking System Test with CSharp</title>
+    <instancename>CSharp</instancename>
+    <variantinfo>
+      <variantproperty>
+        <name>Region</name>
+        <value>US</value>
+        <modifiable>true</modifiable>
+      </variantproperty>
+      <variantproperty>
+        <name>Coverage</name>
+        <value>Medium</value>
+        <modifiable>true</modifiable>
+      </variantproperty>
+    </variantinfo>
+  </testunit>
+  <verdict time="2023-05-12 16:16:08" timestamp="884.830000" endtime="2023-05-12 16:16:09" endtimestamp="1082.541928" result="pass" />
+  <title>Door Control Unit</title>
+  <engineer>
+    <xinfo>
+      <name>Windows Login Name</name>
+      <description>sjagarlamud</description>
+    </xinfo>
+  </engineer>
+  <testsetup>
+    <xinfo>
+      <name>Version</name>
+      <description>CANoe.ISO11783.J1939.CANopen.CAN.LIN.MOST.FlexRay.J1587.Ethernet.Car2x.AFDX.A429.AMD/XCP.Scope.Sensor.SmartCharging.ForEtherCAT /pro 16.2.55 (SP2)</description>
+    </xinfo>
+    <xinfo>
+      <name>Configuration</name>
+      <description>D:\Jenkins\CentralLockingSystem\CANoe_Configuration\CentralLockingSystem.cfg</description>
+    </xinfo>
+    <xinfo>
+      <name>Database comfort on CAN</name>
+      <description>D:\Jenkins\CentralLockingSystem\DBs\comfort.dbc (2019-03-22 19:43:44)</description>
+    </xinfo>
+    <xinfo>
+      <name>Diagnostic Description of SUT</name>
+      <description>CommonDiagnostics, en-US, D:\Jenkins\CentralLockingSystem\DBs\SampleUDS.cdd (1.0, 2009-11-24 10:40:55+01:00)</description>
+    </xinfo>
+    <xinfo>
+      <name>Test Configuration</name>
+      <description>Door Control Unit</description>
+    </xinfo>
+    <xinfo>
+      <name>Windows Computer Name</name>
+      <description>IN01156NB</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module CANoeILNLVector</name>
+      <description>CANoe Interaction Layer NL (Vector) Version 3.30.102 (Nov  4 2021 07:26:28) , C:\ProgramData\Vector\AddOn Packages\Vector AddOn\vModules\CANoe_14_0\Exec32\CANoeILNLVector.dll</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module osek_tp</name>
+      <description>OSEK_TP (VC15, Version 5.33.79 32bit MSC15.0, Build 79), C:\Program Files\Vector CANoe 16\Exec32\osek_tp.dll</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module J1939TestServiceLibraryNL</name>
+      <description>J1939 Test Service Library for CANoe, Version 16.2.55.0, C:\Program Files\Vector CANoe 16\Exec32\J1939TestServiceLibraryNL.dll</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module CANoeILNLDefault</name>
+      <description>CANoe Interaction Layer NL (Default) Version 3.30.102 (Nov  4 2021 07:29:07) , C:\ProgramData\Vector\AddOn Packages\Vector AddOn\vModules\CANoe_14_0\Exec32\CANoeILNLDefault.dll</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module CANstress_NL</name>
+      <description>CANstress NodeLayer for CANoe Version 3.1.0, C:\Program Files\Vector CANoe 16\Exec32\CANstress_NL.dll</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module FRstressNL</name>
+      <description>FRstress NL Version 1.0.28, C:\Program Files\Vector CANoe 16\Exec32\FRstressNL.dll</description>
+    </xinfo>
+    <xinfo>
+      <name>Nodelayer Module C2X_IL</name>
+      <description>Car2x Interaction Layer for Vector CANalyzer.Car2x/CANoe.Car2x, Version 16.2.55, C:\Program Files\Vector CANoe 16\Exec32\C2X_IL.dll</description>
+    </xinfo>
+  </testsetup>
+  <sut>
+    <info>
+      <name>Hardware revision</name>
+      <description>Evaluation board 1.3</description>
+    </info>
+    <info>
+      <name>Software revision</name>
+      <description>1.02</description>
+    </info>
+  </sut>
+</testreport>

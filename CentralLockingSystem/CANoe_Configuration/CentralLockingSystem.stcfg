@@ -1,0 +1,9 @@
+[NStatePersistence]
+Signature=VectorStatePersistence
+[VGlobalMeasurementIndex]
+mMeasurementIndex=136
+[VTestConfigurationConfigData]
+Door_Control_Unit_NextTestRun=119
+[VTestExecutable]
+Door_Control_Unit_LastReportFile=Reports\Report_Door_Control_Unit_Tests.vtestreport
+Door_Control_Unit_LastReportTmpFile=rpt222F.vtestreport
